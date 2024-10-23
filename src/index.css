@@ -144,6 +144,9 @@ progress {
   float: right;
 }
 
+.btn-re{
+  border: 2px solid red;
+}
 .options {
   display: flex;
   flex-direction: column;
